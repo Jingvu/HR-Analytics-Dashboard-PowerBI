@@ -1,7 +1,7 @@
 # HR-Analytics-Dashboard-PowerBI
 This project is an interactive HR Analytics Dashboard built in Power BI, which combines multiple HR datasets into an easy to explore tool for HR teams to monitor workforce trends, performance, and attrition risks.
 
-![Uploading HR Dashboard (readme).png…]()
+![HR Dashboard (readme)](https://github.com/user-attachments/assets/3e65f528-409d-472b-a16a-bbb02700ea51)
 
 ## **Key Features**
 1. Overview
