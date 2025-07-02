@@ -4,25 +4,25 @@ This project is an interactive HR Analytics Dashboard built in Power BI, which c
 ![HR Dashboard (readme)](https://github.com/user-attachments/assets/3e65f528-409d-472b-a16a-bbb02700ea51)
 
 ## **Key Features**
-1. Overview
+**1. Overview**
 
   - Monitors total employees, attrition rate, layoffs, and hiring trends over time.
   
   - Analyzes median salaries by job role and breaks down headcount by education, department, and role.
 
-2. Demographics
+**2. Demographics**
 
   - Visualizes employee distribution by state, age group, gender, ethnicity, and marital status.
   
   - Provides quick insights into diversity, average age, and gender ratio for inclusive workforce planning.
 
-3. Performance Tracking
+**3. Performance Tracking**
 
   - Tracks environment, relationship, and job satisfaction scores with trends over time.
   
   - Compares self-ratings vs. manager ratings and low rating flags by role and department.
 
-4. Attrition
+**4. Attrition**
 
   - Breaks down attrition rates by salary band, tenure, stock options, department, and job role.
   
@@ -39,7 +39,7 @@ This project is an interactive HR Analytics Dashboard built in Power BI, which c
 
 - **Demographics:** Identifies diversity balance and age distribution for inclusive hiring and development programs.
 
--** Performance Tracking:** Uncovers patterns in satisfaction across different roles and over time; detects alignment or gaps between employee self-perception and manager assessment.
+- **Performance Tracking:** Uncovers patterns in satisfaction across different roles and over time; detects alignment or gaps between employee self-perception and manager assessment.
 
 - **Attrition:** Highlights where turnover is highest (by pay band, tenure, or job function) to help HR focus retention strategies and stock option incentives.
 
