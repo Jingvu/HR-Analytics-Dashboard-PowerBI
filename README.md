@@ -1,17 +1,33 @@
 # HR-Analytics-Dashboard-PowerBI
-This project is an interactive HR Analytics Dashboard built in Power BI to visualizes key workforce metrics to help HR teams make informed decisions about attrition, performance, and employee demographics.
+This project is an interactive HR Analytics Dashboard built in Power BI, which combines multiple HR datasets into an easy to explore tool for HR teams to monitor workforce trends, performance, and attrition risks.
+
+![Uploading image.png…]()
+
 
 ## **Key Features**
-- Integrated 5 HR datasets covering employee details, education, satisfaction, and performance.
+1. Overview
 
-- Cleaned and transformed data using Power Query to ensure consistency and accuracy.
+- Monitors total employees, attrition rate, layoffs, and hiring trends over time.
 
-- Designed custom visuals, DAX measures, and interactive drill-downs to explore:
-  + Employee distribution by department, gender, state, age, and education level.
-  + Attrition trends by salary, tenure, stock options, and demographics.
-  + Performance and satisfaction levels, comparing manager vs. employee ratings.
+- Analyzes median salaries by job role and breaks down headcount by education, department, and role.
 
-- Delivered clear insights to support talent retention, workforce planning, and performance management.
+2. Demographics
+
+- Visualizes employee distribution by state, age group, gender, ethnicity, and marital status.
+
+- Provides quick insights into diversity, average age, and gender ratio for inclusive workforce planning.
+
+3. Performance Tracking
+
+- Tracks environment, relationship, and job satisfaction scores with trends over time.
+
+- Compares self-ratings vs. manager ratings and low rating flags by role and department.
+
+4. Attrition
+
+- Breaks down attrition rates by salary band, tenure, stock options, department, and job role.
+
+- Highlights at-risk segments to support targeted retention and compensation strategies.
 
 ## **Tools Used**
 - Power BI (Dashboard design, DAX, Visualizations)
@@ -20,11 +36,13 @@ This project is an interactive HR Analytics Dashboard built in Power BI to visua
 
 ## **Key Insights**
 
-- Identified potential attrition risks in specific roles and salary bands.
+- Overview: Shows clear hiring trends and salary distribution by role to guide budget and recruitment planning.
 
-- Highlighted patterns in employee satisfaction vs. performance ratings.
+- Demographics: Identifies diversity balance and age distribution for inclusive hiring and development programs.
 
-- Enabled HR to pinpoint areas for strategic retention initiatives.
+- Performance Tracking: Uncovers patterns in satisfaction across different roles and over time; detects alignment or gaps between employee self-perception and manager assessment.
+
+- Attrition: Highlights where turnover is highest (by pay band, tenure, or job function) to help HR focus retention strategies and stock option incentives.
 
 ## **View the Dashboard**
 https://app.powerbi.com/view?r=eyJrIjoiODkyM2Q1Y2ItMjFkYi00ODAzLWI2NjctMzZjODdhODY1ZDQzIiwidCI6Ijc4NGU5YWE4LWI4ZjQtNGFhOS1iMTgzLTE5ODExNjE5YjllZSJ9
