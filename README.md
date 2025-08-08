@@ -41,7 +41,7 @@ This project is an interactive HR Analytics Dashboard built in Power BI, which c
 
 - **Demographics:** Identifies diversity balance and age distribution for inclusive hiring and development programs.
 
-- **Performance Tracking:** Uncovers patterns in satisfaction across different roles and over time; detects alignment or gaps between employee self-perception and manager assessment.
+- **Performance Tracking:** Uncovers patterns in satisfaction across different roles and over time, detects alignment or gaps between employee self-perception and manager assessment.
 
 - **Attrition:** Highlights where turnover is highest (by pay band, tenure, or job function) to help HR focus retention strategies and stock option incentives.
 
